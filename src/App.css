@@ -53,7 +53,20 @@ body{
   width: 500px;
   max-height: 500px;
   border-radius: 5px;
-  background-color: white;
+  background-color: rgb(159, 179, 230);
   color: black;
   height: 80%;
+  padding: 50px;
+  margin-top: 200px;
+}
+
+.bt-css{
+  margin-top: 200px;
+  display: grid;
+  justify-content: center;
+  grid-template: auto auto/repeat(5,1fr);
+  gap: 20px;
+  
+  
+
 }
